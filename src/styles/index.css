@@ -10,3 +10,17 @@
     import 'relative/path/to/stylesheet.scss';
 
 */
+.counter {
+    text-align: center;
+    padding:10px;
+    background: black;
+}
+.counter div{
+    display: inline-block;
+    font-size: 200px;
+    font-family: fantasy;
+    line-height: 200px;
+    background-color: #101010;
+    color: white;
+    padding:10px;
+}
